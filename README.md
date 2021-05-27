@@ -1,4 +1,4 @@
-### Live Demo
+### [Live Demo](https://neil-140301.github.io/emojiGame/)
 
 <br/>
 <div style="text-align: center;">
